@@ -28,6 +28,8 @@ The end-to-end flow of the analysis is illustrated below:
 
 ![Analysis Flow](affinity_segmentation_flow.png)
 
+Each stage builds on the previous one, ensuring that segmentation and personas are directly grounded in observed preference patterns.
+
 ---
 
 ## Methodology Overview
